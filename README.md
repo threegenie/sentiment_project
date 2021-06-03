@@ -6,4 +6,4 @@
 
 **사용한 패키지**
 - 전처리, 시각화 : Pandas, Numpy, Matplotlib, Seaborn, Counter, Mecab, Sklearn, Keras(Tokenizer), Wordcloud
-- 모델링 : Keras - GRU 
+- 모델링 : Keras - GRU, BiLSTM
