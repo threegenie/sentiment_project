@@ -14,7 +14,3 @@
 1. 카카오페이지 플레이스토어 리뷰 데이터 분석
 - 사용한 데이터 : 직접 크롤링한 데이터(2021.06.08, https://drive.google.com/file/d/1JBZmRP-Dcc69sQFgPqELTVUYrYCRIBRN/view?usp=sharing)
 
-2. 바람의나라:연 플레이스토어 리뷰 데이터 분석
-- 사용한 데이터 : 직접 크롤링한 데이터(2021.06.08, https://drive.google.com/file/d/190jnhOMFLVTrMrxe1oSnV3kN4r76wzAl/view?usp=sharing)
-
-
