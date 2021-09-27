@@ -11,7 +11,7 @@
 
 ![0005](https://user-images.githubusercontent.com/63702924/126042322-13f3513f-b1d3-41ef-8be8-f85a39c465a7.jpg)
 전처리 과정입니다. 먼저 중복 데이터를 제거한 후, 별점을 이용하여 라벨링 작업을 해 주었습니다. 정규표현식을 사용하여 한글 이외의 문자들을 모두 제거해 주었고, 한국어 형태소 분석기인 Okt와 Mecab을 사용하여 토큰화를 진행했습니다.
-![0014](https://user-images.githubusercontent.com/63702924/126042459-cc991bdd-f37e-4dfc-8aff-e67c71f2bdd1.jpg)
+
 
 ![0006](https://user-images.githubusercontent.com/63702924/126042323-08fc222b-1c2a-415a-b73c-6b8d240d1e20.jpg)
 Mecab으로 토큰화한 리뷰 데이터를 Wordcloud 패키지를 통해 시각화한 결과입니다. 어간과 어미가 모두 분리되어 한눈에 알아보기는 조금 힘든 부분이 있습니다. 부정 리뷰에는 '안', 긍정 리뷰에는 '잘'과 같은 단어들이 많이 등장하는 것을 볼 수 있습니다.
